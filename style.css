@@ -1,0 +1,17 @@
+.sidebar {
+    height: 100vh;
+    padding: 20px;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
