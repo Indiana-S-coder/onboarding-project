@@ -1,3 +1,74 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: black;
+    
+}
+
+a {
+    color: black;
+    
+}
+
+.orange-200 {
+  background-color: rgb(250, 219, 163);
+}
+
+.orange-300 {
+  color: rgb(251, 179, 47);
+}
+.list-group {
+  font-size: 13px ;
+}
+.search-btn {
+  font-size: medium ;
+}
+
+.greeting {
+  font-size: small;
+  font-weight: 400;
+}
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+  }
+  
+  .nav-item {
+    font-size: 13px;
+  }
+
+  .nav-link {
+    font-weight: bold;
+  }
+  
+  .icon-bg {
+    background-color: rgb(226, 225, 225);
+  }
+  .selector {
+    padding: 0 1rem;
+    border-radius: 30%;
+    border-color: gray;
+  }
+  
+  .input-group {
+    border-radius: 30%;
+  }
+  .input-group-text {
+    background-color: transparent;
+    border: 2px;
+    padding: 0;
+  }
+  
+.user-name {
+  font-size: 14px;
+}
 .sidebar {
     height: 100vh;
     padding: 20px;
@@ -12,6 +83,159 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
+.card-text {
+  color: gray;
+  font-size: small;
+}
+
 .card-title {
     font-weight: bold;
+    font-size: medium;
 }
+
+.blue-200 {
+  background-color: rgb(198, 198, 252);
+}
+
+.blue-300 {
+  color: rgb(97, 97, 252);
+}
+
+.sky-200 {
+  background-color: rgb(205, 237, 249);
+}
+
+.sky-300 {
+  color: skyblue;
+}
+
+.pink-200 {
+  background-color: rgb(255, 212, 219);
+}
+
+.pink-300 {
+  color: rgb(254, 165, 180);
+}
+
+.red-200 {
+  background-color: rgb(253, 172, 172);
+}
+
+.red-300 {
+  color: rgb(250, 66, 66);
+}
+
+.green-200 {
+  background-color: rgb(164, 248, 164);
+}
+
+.green-300 {
+  color: rgb(73, 218, 73);
+}
+
+.violet-200 {
+  background-color: rgb(225, 199, 251);
+}
+
+.violet-300 {
+  color: rgb(183, 107, 254);
+}
+
+.yellow-200 {
+  background-color: rgb(247, 247, 147);
+}
+
+.yellow-300 {
+  color: rgb(251, 215, 33);
+}
+
+.sidebar {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.main-content {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.list-group {
+  padding-left: 1.5rem;
+}
+
+.card-header {
+  padding-left: 2rem;
+}
+/* 
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+   */
